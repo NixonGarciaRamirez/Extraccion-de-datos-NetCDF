@@ -1,0 +1,1 @@
+aqui se guardan los archivos .nc cortados y analizados

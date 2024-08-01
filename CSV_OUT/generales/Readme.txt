@@ -1,0 +1,1 @@
+Aqui se guardan los archivos csv extraidos de una escala general del archivo .nc
