@@ -20,12 +20,12 @@ This project is made up of 5 folders:
 This project is a set of functions which are divided into 2 modules:
 
 * The E_S_T module (time series extraction): Here there are 2 functions which allow the extraction of time series from necCDF files for one or more specific locations, among the functions present are:
-- extraction_1: This function is responsible for extracting the information from a specific point
-- multiple_extraction: This function allows the extraction of time series from many specific locations, contained within an excel document (a document with the coordinates of the different municipalities of the department of Antioquia was left as proof)
+ - extraction_1: This function is responsible for extracting the information from a specific point
+ - multiple_extraction: This function allows the extraction of time series from many specific locations, contained within an excel document (a document with the coordinates of the different municipalities of the department of Antioquia was left as proof)
 
 * The T_I module (Image processing): The functions present within this module allow the visualization of the netCDF information on a map, among the functions present are:
-- global_image: This function allows the visualization of the entire netCDF file on a world map (it should be noted that the select the date you want to display)
-- extraction_region: This function allows you to view the netCDF file in an area delimited by 2 coordinates (a minimum lat and lon and a maximum lat and lon), and also allows you to save the cropped netCDF file, so that it is easier to process.
+ - global_image: This function allows the visualization of the entire netCDF file on a world map (it should be noted that the select the date you want to display)
+ - extraction_region: This function allows you to view the netCDF file in an area delimited by 2 coordinates (a minimum lat and lon and a maximum lat and lon), and also allows you to save the cropped netCDF file, so that it is easier to process.
 
 
 # Version en español
