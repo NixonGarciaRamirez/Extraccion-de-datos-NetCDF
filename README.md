@@ -27,8 +27,11 @@ This project is a set of functions which are divided into 2 modules:
 
 * The T_I module (Image processing): The functions present within this module allow the visualization of the netCDF information on a map, among the functions present are:
   - global_image: This function allows the visualization of the entire netCDF file on a world map (it should be noted that the select the date you want to display)
+¡[Globa](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/representacion%20vista%20global.png) 
+
   - extraction_region: This function allows you to view the netCDF file in an area delimited by 2 coordinates (a minimum lat and lon and a maximum lat and lon), and also allows you to save the cropped netCDF file, so that it is easier to process.
 
+¡[Regional](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion.png) 
 
 # Version en español
 
@@ -58,4 +61,6 @@ Este proyecto es unc onjunto de funciones las cuales se dividen en 2 modulos:
 
 * El modulo T_I (Tratamiento de imagenes): La funciones presentes dentro de este mudulo permiten la visualizacion en un mapa de la informacion netCDF, entre las funciones presentes se encuentran:
   - imagen_global: Esta funcion  permite vizualizar la totalidad del archivo netCDF en un mapa mundial (cabe resaltar que se debe seleccionar la fecha que se quiere visualizar)
+¡[Globa](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/representacion%20vista%20global.png) 
   - extraccion_region: Esta funcion permite vizualizar el archivo netCDF en un area delimitada por 2 coordenadas (una lat y lon minima y una lat y lon maxima), ademas de que te permite guardar el archivo netCDF recortado, esto para que se mas facil procesarlo.
+¡[Regional](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion.png) 
