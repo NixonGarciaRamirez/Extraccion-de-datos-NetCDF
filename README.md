@@ -33,6 +33,9 @@ This project is a set of functions which are divided into 2 modules:
 
 ![Regional](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion.png) 
 
+This is what the globally cropped image looks like.
+
+![Recorte](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion%20vista%20global.png) 
 # Version en español
 
 ## Descripción
@@ -63,4 +66,8 @@ Este proyecto es unc onjunto de funciones las cuales se dividen en 2 modulos:
   - imagen_global: Esta funcion  permite vizualizar la totalidad del archivo netCDF en un mapa mundial (cabe resaltar que se debe seleccionar la fecha que se quiere visualizar)
 ![Globa](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/representacion%20vista%20global.png) 
   - extraccion_region: Esta funcion permite vizualizar el archivo netCDF en un area delimitada por 2 coordenadas (una lat y lon minima y una lat y lon maxima), ademas de que te permite guardar el archivo netCDF recortado, esto para que se mas facil procesarlo.
-![Regional](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion.png) 
+![Regional](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion.png)
+
+Asi es como se ve la imagen recortada de forma global.
+
+![Recorte](https://github.com/NixonGarciaRamirez/Extraccion-de-datos-NetCDF/blob/main/IMAGENES/Extraccion%20vista%20global.png) 
